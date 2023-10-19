@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, welcome 👋
 
 <!--
 **Re-st/Re-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🎓 I'm an undergraduate in mathematics and computer science
+- 🌱 currently learning fuzzing and basic linux techniques. \\ Please don't bite me!
+- 👨‍💻️ also interested in static analysis, fuzzing, and automatic theorem proving
+- 🎒 loved graph theory but now off the research, thereby switching major to CS
+- 🐪 know how to code in Python and C, but now learning OCaml for future research!
+- 🤔 currently devoting some time in solving Janestreet Puzzles
