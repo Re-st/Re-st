@@ -1,10 +1,10 @@
 ### Hi, welcome 👋
 
 - 🔭 I’m currently working on fuzz testing
-- 🌱 I’m currently learning fuzz testing
-- 👯 I’m looking to collaborate on fuzz testing
-- 🤔 I’m looking for help with fuzz testing
-- 💬 Ask me about fuzz testing
+- 🌱 I’m currently learning fuzz testing (see my Korean articles on [here](https://re-st.github.io/post/afl-%ED%8D%BC%EC%A7%95/))
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
 - 📫 How to reach me: mailto:geon.park00@kaist.ac.kr
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There are 434 or more fuzzers published in top-tier venues. (See https://fuzzing-survey.org/)
