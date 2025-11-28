@@ -1,6 +1,16 @@
 ### Hi, welcome 👋
 
 PoC geon.park00@kaist.ac.kr
+
+- 🔭 I’m currently working on fuzz testing
+- 🌱 I’m currently learning fuzz testing
+- 👯 I’m looking to collaborate on fuzz testing
+- 🤔 I’m looking for help with fuzz testing
+- 💬 Ask me about fuzz testing
+- 📫 How to reach me: mailto:geon.park00@kaist.ac.kr
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: There are 434 or more fuzzers published in top-tier venues. (See https://fuzzing-survey.org/)
+
 <!--
 **Re-st/Re-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
