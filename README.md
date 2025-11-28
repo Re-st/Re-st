@@ -1,7 +1,5 @@
 ### Hi, welcome 👋
 
-PoC geon.park00@kaist.ac.kr
-
 - 🔭 I’m currently working on fuzz testing
 - 🌱 I’m currently learning fuzz testing
 - 👯 I’m looking to collaborate on fuzz testing
